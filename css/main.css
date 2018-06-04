@@ -20,6 +20,8 @@ section {
     align-items: center;
     border-bottom: 3px solid #efefef;
     padding-bottom: 40px;
+    
+    margin: 70px auto;
 }
 
 .button {
@@ -265,10 +267,6 @@ section {
 
 /*ABOUT SECTION____________________*/
 
-.about {
-    margin: 70px auto
-}
-
 .about-container {
     text-align: center;
     width: 60%;
@@ -283,10 +281,6 @@ section {
 }
 
 /*TEAM SECTION____________________*/
-
-.team {
-    margin: 70px auto;
-}
 
 .team-container {
     display: flex;
@@ -327,10 +321,6 @@ section {
 }
 
 /*SKILLS SECTION____________________*/
-
-.skills {
-    margin: 70px auto;
-}
 
 .skill-box {
     width: 520px;
@@ -409,10 +399,7 @@ section {
     background-color: #efefef;
 }
 
-
-.services {
-    margin: 70px auto;
-}
+/*SERVICES SECTION____________________*/
 
 .services-container {
     display: flex;
@@ -440,10 +427,6 @@ section {
 
 
 /*PORTFOLIO SECTION__________________*/
-
-.portfolio {
-    margin: 70px auto;
-}
 
 .gallery {
     max-width: 1000px;
@@ -552,10 +535,6 @@ section {
 
 /*FOOTER SECTION____________________*/
 
-.contact {
-    margin: 70 auto;
-}
-
 .contact-container {
     display: flex;
     justify-content: center;
@@ -643,10 +622,6 @@ input[type="number"],
 }
 
 /*CONTACT SECTION____________________*/
-
-.footer {
-    margin: 70px auto 0;
-}
 
 .footer .title {
     text-align: left;
